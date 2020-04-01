@@ -1,7 +1,7 @@
 # chromium_brave_chrome_profile_linux , Default chromium OS77
 profile , dafault , chrome 77 , chromium os 77 , original author
 
-
+Close browser git clone and inpack zip in run all arhive tz terminal run
 
 Terminal run command google-chrome profile install run chrome
 
