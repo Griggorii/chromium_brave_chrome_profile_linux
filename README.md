@@ -18,3 +18,9 @@ tar xvpf chromium.tar.xz -C ~/.config
 Terminal run command Brave-Browser profile install run brave
 
 tar xvpf Brave-Browser.tar.xz -C ~/.config
+
+___________________________________________________________________________----
+
+Setting command browser,s
+
+chrome://chrome-urls/
