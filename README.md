@@ -1,4 +1,4 @@
-# chromium_brave_chrome_profile_linux
+# chromium_brave_chrome_profile_linux , Default chromium OS77
 profile , dafault , chrome 77 , chromium os 77 , original author
 
 Terminal run command google-chrome profile install
