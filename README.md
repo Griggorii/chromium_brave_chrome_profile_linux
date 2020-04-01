@@ -7,6 +7,12 @@ Terminal run command google-chrome profile install run chrome
 
 tar xvpf google-chrome.tar.xz -C ~/.config
 
+Dewnload google-chrome v 64.0.3282.167 https://yadi.sk/d/QgZ6xoRyR4Q1mQ
+
+Run terminal in folder google-chrome copy paste
+
+./chromium-browser
+
 ------------------------------------------------------
 
 Terminal run command chromium profile install run chromium
