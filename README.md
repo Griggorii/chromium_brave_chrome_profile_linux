@@ -21,6 +21,6 @@ tar xvpf Brave-Browser.tar.xz -C ~/.config
 
 ___________________________________________________________________________----
 
-Setting command browser,s
+Setting command browser,s copy paste url enter
 
 chrome://chrome-urls/
