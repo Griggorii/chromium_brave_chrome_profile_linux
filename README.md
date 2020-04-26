@@ -1,32 +1,24 @@
 # chromium_brave_chrome_profile_linux , Default chromium OS77
-profile , dafault , chrome 77 , chromium os 77 , original author
+profile , default , chrome 77 , chromium os 77 , original author griggorii profile default
 
-Close browser git clone and inpack zip in run all arhive tz terminal run
+Bookmark passwd backup !
+
+Download https://yadi.sk/d/zAXEs2P2-rRRsg inpack zip run terminal locate arhive setting_chromium_OS77.tar.xz run command and sh script version browser run , bookmark
 
 Terminal run command google-chrome profile install run chrome
 
-tar xvpf google-chrome.tar.xz -C ~/.config
-
-Dewnload google-chrome v 64.0.3282.167 https://yadi.sk/d/QgZ6xoRyR4Q1mQ
-
-Run terminal in folder google-chrome copy paste
-
-./chromium-browser
+tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/google-chrome
 
 ------------------------------------------------------
 
-Terminal run command chromium profile install run chromium
+Terminal run command chromium profile install run chromium browser
 
-tar xvpf chromium.tar.xz -C ~/.config
+tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/chromium
 
 ------------------------------------------------------
 
-Terminal run command Brave-Browser profile install run brave
+Terminal run command Brave-Browser profile install run brave browser
 
-tar xvpf Brave-Browser.tar.xz -C ~/.config
+tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/BraveSoftware/Brave-Browser
 
-___________________________________________________________________________----
-
-Setting command browser,s copy paste url enter
-
-chrome://chrome-urls/
+___________________________________________________________________________
