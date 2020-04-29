@@ -5,6 +5,8 @@ Bookmark passwd backup !
 
 Download https://yadi.sk/d/NFI0CmAM5BnAKA inpack zip run terminal locate arhive setting_chromium_OS77.tar.xz run command and sh script version browser run 
 
+Proview https://www.youtube.com/watch?v=I2aHs2mRtXc
+
 Terminal run command google-chrome profile install run chrome browser
 
 tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/google-chrome
