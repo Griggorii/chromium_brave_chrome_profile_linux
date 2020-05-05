@@ -7,20 +7,26 @@ Download https://yadi.sk/d/AB1NKcVXC58uYQ inpack zip run terminal locate arhive 
 
 Proview https://www.youtube.com/watch?v=I2aHs2mRtXc
 
-Terminal run command google-chrome profile install run chrome browser
+Profile install run chrome browser
 
-tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/google-chrome
-
-------------------------------------------------------
-
-Terminal run command chromium profile install run chromium browser
-
-tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/chromium
+google-chrome.sh
 
 ------------------------------------------------------
 
-Terminal run command Brave-Browser profile install run brave browser
+Profile install run chromium browser
 
-tar xvpf setting_chromium_OS77.tar.xz -C ~/.config/BraveSoftware/Brave-Browser
+chromium.sh
 
-___________________________________________________________________________
+------------------------------------------------------
+
+Profile install run brave browser
+
+Brave-Browser.sh
+
+------------------------------------------------------
+
+Profile install run opera browser
+
+opera.sh
+
+------------------------------------------------------
