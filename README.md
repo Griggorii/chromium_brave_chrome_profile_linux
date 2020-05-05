@@ -3,7 +3,7 @@ profile , default , chrome 77 , chromium os 77 , original author griggorii profi
 
 Bookmark passwd backup !
 
-Download https://yadi.sk/d/VHkfVAZEmr5LFw inpack zip run terminal locate arhive setting_chromium_OS77.tar.xz run command and sh script version browser run 
+Download https://yadi.sk/d/8CJoL6UGIiBztw inpack zip run terminal locate arhive setting_chromium_OS77.tar.xz run command and sh script version browser run 
 
 Proview https://www.youtube.com/watch?v=I2aHs2mRtXc
 
