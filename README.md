@@ -7,6 +7,8 @@ Download https://yadi.sk/d/AB1NKcVXC58uYQ inpack zip run terminal locate arhive 
 
 Proview https://www.youtube.com/watch?v=I2aHs2mRtXc
 
+Closed all browsers ! Install re open browser
+
 Profile install run chrome browser
 
 google-chrome.sh
