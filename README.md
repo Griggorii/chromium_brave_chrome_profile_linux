@@ -21,6 +21,8 @@ chromium.sh
 
 ------------------------------------------------------
 
+Brave browser download https://yadi.sk/d/kIE0QWR2OPV-hA
+
 Profile install run brave browser
 
 Brave-Browser.sh
