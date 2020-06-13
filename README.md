@@ -21,7 +21,7 @@ chromium.sh
 
 ------------------------------------------------------
 
-Brave browser download amd64.deb https://yadi.sk/d/kIE0QWR2OPV-hA
+Linux brave browser download https://yadi.sk/d/dZHZdhVpaEH-Jw
 
 Profile install run brave browser
 
