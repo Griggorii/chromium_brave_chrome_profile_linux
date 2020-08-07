@@ -7,6 +7,10 @@ Download https://yadi.sk/d/8CJoL6UGIiBztw inpack zip run terminal locate arhive 
 
 Proview https://www.youtube.com/watch?v=I2aHs2mRtXc
 
+backup cp /usr/include/time.h ~/
+
+my sudo cp 18.10_OS8.0/time.h /usr/include
+
 Closed all browsers ! Install re open browser
 
 Profile install run chrome browser
