@@ -13,6 +13,8 @@ my sudo cp 18.10_OS8.0/time.h /usr/include
 
 Closed all browsers ! Install re open browser
 
+example /opt/brave.com/brave/brave --disable-seccomp-filter-sandbox
+
 Profile install run chrome browser
 
 google-chrome.sh
