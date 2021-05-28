@@ -1,5 +1,5 @@
 # chromium_brave_chrome_profile_linux , Default chromium OS77 , setting , web-morda
-profile , default , chrome 77 , chromium os 77 , original author griggorii profile default , quic srtt griggorii blob https://github.githubassets.com/
+profile , default , chrome 77 , chromium os 77 , original author griggorii profile default , quic srtt griggorii blob https://github.githubassets.com/ https://hangouts.google.com
 
 Bookmark passwd backup !
 
