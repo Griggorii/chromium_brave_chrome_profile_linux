@@ -1,7 +1,5 @@
 # chromium_brave_chrome_profile_linux , Default chromium OS77 , setting , web-morda
-profile , default , chrome 77 , chromium os 77 , original author griggorii profile default , quic srtt griggorii blob https://github.githubassets.com/ https://hangouts.google.com https://s0.wp.com https://leader-id.ru https://graph.facebook.com https://chat-pa.clients6.google.com "port":443 , микро профили в default
-
-Bookmark passwd backup !
+profile , default , chrome 77 , chromium os 77 , original author griggorii profile default , quic srtt griggorii blob "port":443 , микро профили в default
 
 Download size 33Mb https://github.com/Griggorii/chromium_brave_chrome_profile_linux/releases/download/chromium-browser/chromium_setting_browsers.zipinpack zip run terminal locate arhive setting_chromium_OS77.tar.xz run command and sh script version browser run 
 
